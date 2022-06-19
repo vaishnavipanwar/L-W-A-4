@@ -1,0 +1,24 @@
+#logo{
+    height: 40px;
+    width: 40px;
+      }  
+#logout{
+    float: right;
+}      
+body{
+    background-color:grey ;
+    font-size: 20px;
+    font-family: 'Times New Roman' ;
+}
+#output{
+    text-align: center;
+    background-color: lightblue ;
+    font-size: medium;
+    border-width:4px;
+    border-style: solid;
+    border-color: white;
+    font-family: 'Times New Roman';
+    padding: 25px;
+    border-radius: 20px;
+}    
+    
